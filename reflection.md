@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I struggled with running the tests since I'm still working on an iPad. However, my laptop is coming this weekend so I will be able to work on that for the rest of the semester. This assignment was a good refresher on if loops and while loops.
